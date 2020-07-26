@@ -244,7 +244,7 @@ def main():
 
         #terminate program if user doesn't want to restart
         if restart in valid_responses['negative responses']:
-          print('\n\nProgram terminating...Goodnight\n')
+          print('\n\nProgram terminating...Goodnight you absolute weapons\n')
           break
 
 if __name__ == "__main__":
