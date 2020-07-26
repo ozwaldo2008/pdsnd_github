@@ -8,7 +8,9 @@ bikeshare project
 display bikeshare data
 
 ### Files used
-see all Files
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 all me baby
