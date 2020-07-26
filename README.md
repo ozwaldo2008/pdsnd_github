@@ -5,7 +5,7 @@
 bikeshare project
 
 ### Description
-display bikeshare data
+display bikeshare data based upon user input
 
 ### Files used
 chicago.csv
